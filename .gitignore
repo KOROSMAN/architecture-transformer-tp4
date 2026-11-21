@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Dataset trop lourd pour GitHub (127 Mo > limite de 100 Mo)
+data/household_power_consumption.txt
+data/*.zip
+
+# Modèles entraînés (on peut les recréer en relançant les notebooks)
+*.pt
