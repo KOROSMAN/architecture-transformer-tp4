@@ -6,7 +6,7 @@ de type GPT (génération) et BERT (mot masqué), implémentés avec PyTorch.
 ## Progression
 ### Partie 1 : du RNN au Transformer
 - [x] Étape 0 : Initialisation du projet
-- [ ] Étape 1 : RNN (sin(x), séquences de 10 valeurs)
+- [X] Étape 1 : RNN (sin(x), séquences de 10 valeurs)
 - [ ] Étape 2 : LSTM
 - [ ] Étape 3 : Transformer
 - [ ] Étape 4 : GPT-2 (prédire la suite d'un texte)
