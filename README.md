@@ -8,7 +8,7 @@ de type GPT (génération) et BERT (mot masqué), implémentés avec PyTorch.
 - [x] Étape 0 : Initialisation du projet
 - [X] Étape 1 : RNN (sin(x), séquences de 10 valeurs)
 - [X] Étape 2 : LSTM
-- [ ] Étape 3 : Transformer
+- [X] Étape 3 : Transformer
 - [ ] Étape 4 : GPT-2 (prédire la suite d'un texte)
 - [ ] Étape 5 : BERT (prédire un mot masqué)
 
