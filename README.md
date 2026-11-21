@@ -10,7 +10,7 @@ de type GPT (génération) et BERT (mot masqué), implémentés avec PyTorch.
 - [X] Étape 2 : LSTM
 - [X] Étape 3 : Transformer
 - [X] Étape 4 : GPT-2 (prédire la suite d'un texte)
-- [ ] Étape 5 : BERT (prédire un mot masqué)
+- [X] Étape 5 : BERT (prédire un mot masqué)
 
 ### Partie 2 : exercices
 - [ ] Exercice 1 : EnergyTransformer (consommation électrique)
