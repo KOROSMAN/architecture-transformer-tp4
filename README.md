@@ -14,8 +14,8 @@ de type GPT (génération) et BERT (mot masqué), implémentés avec PyTorch.
 
 ### Partie 2 : exercices
 - [X] Exercice 1 : EnergyTransformer (consommation électrique)
-- [ ] Exercice 2 : mini-GPT (génération caractère par caractère)
-- [ ] Exercice 3 : mini-BERT (mots masqués)
+- [X] Exercice 2 : mini-GPT (génération caractère par caractère)
+- [X] Exercice 3 : mini-BERT (mots masqués)
 
 ## Données
 Le dataset *Individual Household Electric Power Consumption* (UCI) n'est pas versionné (127 Mo).
