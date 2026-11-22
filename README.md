@@ -13,7 +13,7 @@ de type GPT (génération) et BERT (mot masqué), implémentés avec PyTorch.
 - [X] Étape 5 : BERT (prédire un mot masqué)
 
 ### Partie 2 : exercices
-- [ ] Exercice 1 : EnergyTransformer (consommation électrique)
+- [X] Exercice 1 : EnergyTransformer (consommation électrique)
 - [ ] Exercice 2 : mini-GPT (génération caractère par caractère)
 - [ ] Exercice 3 : mini-BERT (mots masqués)
 
